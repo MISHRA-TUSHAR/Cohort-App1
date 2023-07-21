@@ -2,7 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:loginsignup/login.dart';
-import 'package:loginsignup/signin.dart';
+import 'package:loginsignup/signup.dart';
 
 void main() {
   runApp(MaterialApp(
